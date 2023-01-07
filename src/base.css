@@ -78,11 +78,11 @@ button {
 /* Scrollbars */
 
 ::-webkit-scrollbar {
-	width: 14px !important;
+	width: 18px !important;
 }
 
  ::-webkit-scrollbar-thumb {
-	border-radius: 8px !important;
+	border-radius: 10px !important;
 	border: 3px solid transparent !important;
 	background-color: rgba(var(--accent-alt), 1) !important;
 }
